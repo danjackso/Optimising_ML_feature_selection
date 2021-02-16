@@ -1,6 +1,3 @@
-#Shell working directory:
-#Documents/4th_Year/Learning_Python/Regression/Linear_regression/
-
 import matplotlib.pyplot as plt
 import numpy as np
 import os
