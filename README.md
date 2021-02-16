@@ -13,7 +13,7 @@ Model is built using keras.tensorflow. The hyperparameters to be optimised for t
 
 The bayesian optimsier returned the best model based on validation loss.
 
-![Test video 1](FAccuracyML.png)
+![Test video 1](AccuracyML.png)
 
 ## Requirements
 * python 3.5.x
